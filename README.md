@@ -54,12 +54,13 @@ END
 ```
 OUTPUT
 
-(Keil output screenshot can be inserted here)
+<img width="1915" height="902" alt="FACTORIAL (1)" src="https://github.com/user-attachments/assets/38b7ed44-a59e-4544-8602-86320fef1343" />
 
 ---
 MANUAL CALCULATIONS
 
----
+![WhatsApp Image 2026-02-21 at 9 21 37 AM](https://github.com/user-attachments/assets/c4516434-ef08-4a9d-9553-75b329fa010f)
+
 
 RESULT
 
